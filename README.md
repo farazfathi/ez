@@ -2,8 +2,8 @@
 Front-End javascript library
 
 <h2>Update : 5/26/2022</h2>
-appendAfter()
-# append string or html element after an element/s
+# appendAfter()
+append string or html element after an element/s
 
 appendBefore()
 # append string or html element before an element/s
